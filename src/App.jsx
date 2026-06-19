@@ -2241,7 +2241,7 @@ const siteMarkup = `<nav class="nav">
           <div class="center-card">
             <div><strong>FACT</strong><small>Fiduciary, Advisory, Corporate & Technology</small></div>
           </div>
-          <div class="floating f1"><strong>Fiduciary</strong> Trustee coordination and controlled administration.</div>
+          <div class="floating f1"><strong>Fiduciary</strong> Governance and controlled administration.</div>
           <div class="floating f2"><strong>Advisory</strong> Strategy, analytics and business optimisation.</div>
           <div class="floating f3"><strong>Compliance</strong> KYC, KYB and counterparty screening support.</div>
           <div class="floating f4"><strong>Technology</strong> Payment gateways and workflow integration.</div>
@@ -2260,8 +2260,8 @@ const siteMarkup = `<nav class="nav">
         <div class="pillars">
           <article class="card" id="fiduciary-services">
             <div class="icon">F</div>
-            <h3>Fiduciary Services</h3>
-            <p>Trustee coordination, controlled fund administration, cross-border transfer support and governance-led transaction oversight.</p>
+            <h3>Financial Services</h3>
+            <p>Controlled fund administration, cross-border transfer support and governance-led transaction oversight.</p>
           </article>
 
           <article class="card" id="advisory-services">
@@ -2339,7 +2339,7 @@ const siteMarkup = `<nav class="nav">
               <div class="flow-card">
                 <h3>Financial & Fiduciary Infrastructure</h3>
                 <ul>
-                  <li>Trustee coordination</li>
+                  <li>Governence and Distribution coordination</li>
                   <li>Settlement support</li>
                   <li>Investment structures</li>
                 </ul>
@@ -2381,7 +2381,7 @@ const siteMarkup = `<nav class="nav">
           </div>
         </div>
         <div class="list-panel">
-          <div class="service-row"><div class="num">01</div><div><h3>Cross-Border Investment Support</h3><p>SPV establishment, trustee coordination, governance support and controlled fund administration for structured investment activities.</p></div></div>
+          <div class="service-row"><div class="num">01</div><div><h3>Cross-Border Investment Support</h3><p>SPV establishment, governance support and controlled fund administration for structured investment activities.</p></div></div>
           <div class="service-row"><div class="num">02</div><div><h3>Corporate Establishment</h3><p>Entity incorporation, registered office, nominee support, management coordination and accounting readiness.</p></div></div>
           <div class="service-row"><div class="num">03</div><div><h3>Compliance Operations</h3><p>Client onboarding, KYB/KYC document flows, counterparty screening and monitoring processes for business continuity.</p></div></div>
           <div class="service-row"><div class="num">04</div><div><h3>Technology & Payment Infrastructure</h3><p>Advisory for payment gateways, compliance portals and integrated operational tools that improve speed and control.</p></div></div>
@@ -2487,14 +2487,14 @@ const siteMarkup = `<nav class="nav">
     <div class="container">
       <div class="service-hero-card">
         <div class="service-letter">F</div>
-        <h1>Fiduciary, Trustee and Wealth Infrastructure Solutions</h1>
+        <h1>Financial and Wealth Infrastructure Solutions</h1>
         <p>Cyto Dollars supports clients that need structured fiduciary coordination, controlled transaction administration and wealth infrastructure planning across corporate, investment and cross-border operating needs.</p>
       </div>
 
       <div class="fiduciary-layout">
         <div>
           <div class="fiduciary-photo-stack" aria-label="Fiduciary service imagery">
-            <div class="fiduciary-photo large"><span>Family Office & Trustee Coordination</span></div>
+            <div class="fiduciary-photo large"><span>Family Office & Administration Coordination</span></div>
             <div class="fiduciary-photo office"><span>Investment & SPV Structuring</span></div>
             <div class="fiduciary-photo meeting"><span>Settlement & Transaction Administration</span></div>
           </div>
@@ -2503,8 +2503,8 @@ const siteMarkup = `<nav class="nav">
         <div class="fiduciary-services-grid">
           <div class="fiduciary-service-card">
             <div class="mini-letter">01</div>
-            <h3>Trustee & Fiduciary Support</h3>
-            <p>Coordination support for trustee-facing structures, governance requirements and fiduciary administration workflows.</p>
+            <h3>Govenrnance & Administration</h3>
+            <p>Coordination support for governance requirements and fiduciary administration workflows.</p>
           </div>
           <div class="fiduciary-service-card">
             <div class="mini-letter">02</div>
@@ -2550,7 +2550,7 @@ const siteMarkup = `<nav class="nav">
             <div class="process-node">
               <div class="process-dot"></div>
               <strong>Structure</strong>
-              <span>Coordinate the appropriate fiduciary, SPV, trustee or administrative pathway.</span>
+              <span>Coordinate the appropriate fiduciary, SPV or administrative pathway.</span>
             </div>
             <div class="process-node">
               <div class="process-dot"></div>
