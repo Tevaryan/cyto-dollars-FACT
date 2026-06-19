@@ -2185,7 +2185,7 @@ const siteMarkup = `<nav class="nav">
         <div class="nav-item">
           <a href="#pillars" onclick="showSite()">Services</a>
           <div class="nav-dropdown" aria-label="Services menu">
-            <a href="#fiduciary-services-page" onclick="showServicePage('fiduciary')"><strong>F</strong>Fiduciary Services</a>
+            <a href="#fiduciary-services-page" onclick="showServicePage('fiduciary')"><strong>F</strong>Financial Services</a>
             <a href="#advisory-services-page" onclick="showServicePage('advisory')"><strong>A</strong>Advisory Services</a>
             <a href="#compliance-corporate-page" onclick="showServicePage('compliance')"><strong>C</strong>Compliance and Corporate</a>
             <a href="#technology-integration-page" onclick="showServicePage('technology')"><strong>T</strong>Technology Integration</a>
@@ -2206,7 +2206,7 @@ const siteMarkup = `<nav class="nav">
           <summary>Services <span>⌄</span></summary>
           <div class="mobile-submenu">
             <a href="#pillars" onclick="closeMobileMenu(); showSite()"><strong>All</strong>Services We Offer</a>
-            <a href="#fiduciary-services-page" onclick="closeMobileMenu(); showServicePage('fiduciary')"><strong>F</strong>Fiduciary Services</a>
+            <a href="#fiduciary-services-page" onclick="closeMobileMenu(); showServicePage('fiduciary')"><strong>F</strong>Financial Services</a>
             <a href="#advisory-services-page" onclick="closeMobileMenu(); showServicePage('advisory')"><strong>A</strong>Advisory Services</a>
             <a href="#compliance-corporate-page" onclick="closeMobileMenu(); showServicePage('compliance')"><strong>C</strong>Compliance and Corporate</a>
             <a href="#technology-integration-page" onclick="closeMobileMenu(); showServicePage('technology')"><strong>T</strong>Technology Integration</a>
@@ -2239,9 +2239,9 @@ const siteMarkup = `<nav class="nav">
           <div class="ring two"></div>
           <div class="ring three"></div>
           <div class="center-card">
-            <div><strong>FACT</strong><small>Fiduciary, Advisory, Corporate & Technology</small></div>
+            <div><strong>FACT</strong><small>Financial, Advisory, Corporate & Technology</small></div>
           </div>
-          <div class="floating f1"><strong>Fiduciary</strong> Governance and controlled administration.</div>
+          <div class="floating f1"><strong>Financial</strong> Governance and controlled administration.</div>
           <div class="floating f2"><strong>Advisory</strong> Strategy, analytics and business optimisation.</div>
           <div class="floating f3"><strong>Compliance</strong> KYC, KYB and counterparty screening support.</div>
           <div class="floating f4"><strong>Technology</strong> Payment gateways and workflow integration.</div>
@@ -2337,7 +2337,7 @@ const siteMarkup = `<nav class="nav">
             <div class="flow-step">
               <div class="step-head"><div class="step-dot"></div><div class="step-label">Transact</div></div>
               <div class="flow-card">
-                <h3>Financial & Fiduciary Infrastructure</h3>
+                <h3>Financial Infrastructure</h3>
                 <ul>
                   <li>Governence and Distribution coordination</li>
                   <li>Settlement support</li>
@@ -2363,7 +2363,7 @@ const siteMarkup = `<nav class="nav">
         </div>
 
         <div class="flow-note flow-note-outside">
-          We help businesses <strong>bridge traditional operations with modern financial and technology infrastructure</strong> through integrated corporate and fiduciary solutions.
+          We help businesses <strong>bridge traditional operations with modern financial and technology infrastructure</strong> through integrated corporate and financial solutions.
         </div>
       </div>
     </section>
@@ -2395,7 +2395,7 @@ const siteMarkup = `<nav class="nav">
           <div class="section-head">
             <div class="kicker">Contact</div>
             <h2>Build your next operating layer with Cyto Dollars.</h2>
-            <p>Speak with us about fiduciary coordination, corporate structuring, compliance support or technology integration.</p>
+            <p>Speak with us about financial coordination, corporate structuring, compliance support or technology integration.</p>
           </div>
           <form class="contact-grid" action="mailto:info@cytodollars.com" method="post" enctype="text/plain">
             <input type="text" placeholder="Name" required />
@@ -2446,7 +2446,7 @@ const siteMarkup = `<nav class="nav">
         <p>We may use personal data for the following purposes:</p>
         <p>i. to respond to enquiries and communicate with you;</p>
         <p>ii. to assess your suitability for our services and perform onboarding, due diligence, KYC, KYB or compliance checks;</p>
-        <p>iii. to provide fiduciary coordination, advisory, corporate, compliance, technology integration and related services;</p>
+        <p>iii. to provide Financial coordination, advisory, corporate, compliance, technology integration and related services;</p>
         <p>iv. to coordinate with service providers, professional advisers, counterparties, trustees, custodians, financial institutions, regulators or other relevant parties where necessary;</p>
         <p>v. to maintain business, compliance, legal, accounting and administrative records;</p>
         <p>vi. to improve our website, services, processes and client experience; and</p>
@@ -2488,7 +2488,7 @@ const siteMarkup = `<nav class="nav">
       <div class="service-hero-card">
         <div class="service-letter">F</div>
         <h1>Financial and Wealth Infrastructure Solutions</h1>
-        <p>Cyto Dollars supports clients that need structured fiduciary coordination, controlled transaction administration and wealth infrastructure planning across corporate, investment and cross-border operating needs.</p>
+        <p>Cyto Dollars supports clients that need structured financial coordination, controlled transaction administration and wealth infrastructure planning across corporate, investment and cross-border operating needs.</p>
       </div>
 
       <div class="fiduciary-layout">
@@ -2504,7 +2504,7 @@ const siteMarkup = `<nav class="nav">
           <div class="fiduciary-service-card">
             <div class="mini-letter">01</div>
             <h3>Govenrnance & Administration</h3>
-            <p>Coordination support for governance requirements and fiduciary administration workflows.</p>
+            <p>Coordination support for governance requirements and financial administration workflows.</p>
           </div>
           <div class="fiduciary-service-card">
             <div class="mini-letter">02</div>
@@ -2536,7 +2536,7 @@ const siteMarkup = `<nav class="nav">
 
       
       <div class="fiduciary-process">
-        <h2>How the fiduciary layer works</h2>
+        <h2>How the financial layer works</h2>
         <p>We keep the process practical: understand the structure, coordinate the parties, support the administration, and maintain governance visibility as the arrangement scales.</p>
 
         <div class="process-flow">
@@ -2550,7 +2550,7 @@ const siteMarkup = `<nav class="nav">
             <div class="process-node">
               <div class="process-dot"></div>
               <strong>Structure</strong>
-              <span>Coordinate the appropriate fiduciary, SPV or administrative pathway.</span>
+              <span>Coordinate the appropriate financial, SPV or administrative pathway.</span>
             </div>
             <div class="process-node">
               <div class="process-dot"></div>
