@@ -2411,7 +2411,7 @@ const siteMarkup = `<nav class="nav">
               <div class="kicker">Company Details</div>
               <h3>Cyto Dollars Sdn. Bhd.</h3>
               <p><strong>Address</strong><br>
-              Wisma UOA 2, Level 15 Unit 13A (15-13A), No. 21, Jalan Pinang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.</p>
+              12200 Weber Hill Rd Ste 200, Saint Louis, MO 63127-1569, USA.</p>
               <p><strong>Company</strong><br>
               CYTO DOLLARS SDN BHD (202601004652 (1666749-A))</p>
               <p><a href="#privacy" onclick="showPrivacy()">Privacy Policy</a></p>
