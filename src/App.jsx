@@ -2841,7 +2841,7 @@ const siteMarkup = `<nav class="nav">
     <div class="container footer-grid">
       <div>
         <img class="footer-logo-img" src="/cyto-logo-large.png" alt="Cyto Dollars logo" />
-        <p>Wisma UOA 2, Level 15 Unit 13A (15-13A), No. 21, Jalan Pinang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.</p>
+        <p>12200 Weber Hill Rd Ste 200, Saint Louis, MO 63127-1569, USA.</p>
         <p>CYTO DOLLARS SDN BHD (202601004652 (1666749-A))</p>
         <p>© 2026 Cyto Dollars. All rights reserved.</p>
       </div>
