@@ -2411,6 +2411,7 @@ const siteMarkup = `<nav class="nav">
               <div class="kicker">Company Details</div>
               <h3>Cyto Dollars Sdn. Bhd.</h3>
               <p><strong>Address</strong><br>
+              D-05-08, Menara Suezcap, No.2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200 Kuala Lumpur, W.P Kuala Lumpur, Malaysia.<br>
               12200 Weber Hill Rd Ste 200, Saint Louis, MO 63127-1569, USA.</p>
               <p><strong>Company</strong><br>
               CYTO DOLLARS SDN BHD (202601004652 (1666749-A))</p>
@@ -2841,6 +2842,7 @@ const siteMarkup = `<nav class="nav">
     <div class="container footer-grid">
       <div>
         <img class="footer-logo-img" src="/cyto-logo-large.png" alt="Cyto Dollars logo" />
+        <p>D-05-08, Menara Suezcap, No.2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200 Kuala Lumpur, W.P Kuala Lumpur, Malaysia.</p>
         <p>12200 Weber Hill Rd Ste 200, Saint Louis, MO 63127-1569, USA.</p>
         <p>CYTO DOLLARS SDN BHD (202601004652 (1666749-A))</p>
         <p>© 2026 Cyto Dollars. All rights reserved.</p>
