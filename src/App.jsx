@@ -2241,10 +2241,10 @@ const siteMarkup = `<nav class="nav">
           <div class="center-card">
             <div><strong>FACT</strong><small>Financial, Advisory, Corporate & Technology</small></div>
           </div>
-          <div class="floating f1"><strong>Financial</strong> Governance and controlled administration.</div>
+          <div class="floating f1"><strong>Financial</strong> Corporate treasury administration and operational workflow support.</div>
           <div class="floating f2"><strong>Advisory</strong> Strategy, analytics and business optimisation.</div>
           <div class="floating f3"><strong>Compliance</strong> KYC, KYB and counterparty screening support.</div>
-          <div class="floating f4"><strong>Technology</strong> Payment gateways and workflow integration.</div>
+          <div class="floating f4"><strong>Technology</strong> E-commerce integration workflows and enterprise technology consulting.</div>
         </div>
       </div>
     </section>
@@ -2261,7 +2261,7 @@ const siteMarkup = `<nav class="nav">
           <article class="card" id="fiduciary-services">
             <div class="icon">F</div>
             <h3>Financial Services</h3>
-            <p>Controlled fund administration, cross-border transfer support and governance-led transaction oversight.</p>
+            <p>Corporate treasury administration and operational workflow support, cross-border corporate operational support and entity structuring, and governance-led transaction oversight.</p>
           </article>
 
           <article class="card" id="advisory-services">
@@ -2273,13 +2273,13 @@ const siteMarkup = `<nav class="nav">
           <article class="card" id="compliance-corporate">
             <div class="icon">C</div>
             <h3>Corporate & Compliance</h3>
-            <p>Entity incorporation, company secretarial support, registered office, nominee arrangements and continuous KYC/KYB workflows.</p>
+            <p>Entity incorporation, company secretarial support, registered office, corporate governance advisory and designated structural administration support, and continuous KYC/KYB workflows.</p>
           </article>
 
           <article class="card" id="technology-integration">
             <div class="icon">T</div>
             <h3>Technology Integration</h3>
-            <p>Payment gateway setup, compliance technology, workflow tools and infrastructure planning for scalable operations.</p>
+            <p>E-commerce integration workflows and enterprise technology consulting, compliance technology, workflow tools and infrastructure planning for scalable operations.</p>
           </article>
         </div>
       </div>
@@ -2327,7 +2327,7 @@ const siteMarkup = `<nav class="nav">
                 <h3>Technology Integration</h3>
                 <ul>
                   <li>KYC portal</li>
-                  <li>Payment solutions</li>
+                  <li>E-commerce integration workflows</li>
                   <li>Workflow automation</li>
                   <li>Compliance tools</li>
                 </ul>
@@ -2381,10 +2381,10 @@ const siteMarkup = `<nav class="nav">
           </div>
         </div>
         <div class="list-panel">
-          <div class="service-row"><div class="num">01</div><div><h3>Cross-Border Investment Support</h3><p>SPV establishment, governance support and controlled fund administration for structured investment activities.</p></div></div>
-          <div class="service-row"><div class="num">02</div><div><h3>Corporate Establishment</h3><p>Entity incorporation, registered office, nominee support, management coordination and accounting readiness.</p></div></div>
+          <div class="service-row"><div class="num">01</div><div><h3>Cross-Border Corporate Operational Support</h3><p>Structured entity formation and administrative setup for corporate operations, corporate governance support, and corporate treasury administration and operational workflow support.</p></div></div>
+          <div class="service-row"><div class="num">02</div><div><h3>Corporate Establishment</h3><p>Entity incorporation, registered office, corporate governance advisory and designated structural administration support, management coordination and accounting readiness.</p></div></div>
           <div class="service-row"><div class="num">03</div><div><h3>Compliance Operations</h3><p>Client onboarding, KYB/KYC document flows, counterparty screening and monitoring processes for business continuity.</p></div></div>
-          <div class="service-row"><div class="num">04</div><div><h3>Technology & Payment Infrastructure</h3><p>Advisory for payment gateways, compliance portals and integrated operational tools that improve speed and control.</p></div></div>
+          <div class="service-row"><div class="num">04</div><div><h3>Technology Integration & Enterprise Consulting</h3><p>E-commerce integration workflows and enterprise technology consulting, compliance portals and integrated operational tools that improve speed and control.</p></div></div>
         </div>
       </div>
     </section>
@@ -2436,12 +2436,16 @@ const siteMarkup = `<nav class="nav">
         <p>This Privacy Policy is prepared in accordance with applicable personal data protection laws, including the Personal Data Protection Act 2010 of Malaysia where applicable.</p>
 
         <h2>2. Personal Data We May Collect</h2>
-        <p>We may collect personal data that you provide to us directly or that is collected during the course of our business relationship, including but not limited to:</p>
-        <p>i. name, contact details, email address, phone number, company name and job title;</p>
-        <p>ii. business, corporate, compliance, financial, transaction or onboarding information submitted to us;</p>
-        <p>iii. identification, verification, KYC, KYB or due diligence documents where required for service assessment or onboarding;</p>
-        <p>iv. correspondence, enquiry details, meeting notes and other information you choose to provide to us; and</p>
-        <p>v. technical information such as website usage data, browser information, device information and IP address where collected through standard website technologies.</p>
+        <p>Where applicable and necessary for the relevant enquiry, onboarding, service or compliance purpose, we may collect and process:</p>
+        <p>i. names, contact details, email addresses, telephone numbers, company names, job titles and correspondence;</p>
+        <p>ii. identity documents, verification results, corporate registration records, ownership and control records, beneficial-ownership information, and tax identification information, including EIN/TIN evidence;</p>
+        <p>iii. biometric or liveness-verification data, including verification images, recordings or results, where used by us or our approved verification providers;</p>
+        <p>iv. bank-account information, financial records, and Source of Funds and Source of Wealth evidence;</p>
+        <p>v. transaction details and metadata, wallet addresses, public blockchain information, and information linking transactions or wallets to relevant customers or counterparties;</p>
+        <p>vi. sanctions, politically exposed person, adverse-media, fraud-prevention and blockchain-analytics information, including screening and investigation results;</p>
+        <p>vii. enquiry details, meeting notes and information supplied during our business relationship; and</p>
+        <p>viii. website usage data, browser and device information, and IP addresses where collected through website technologies.</p>
+        <p>Information may be obtained from you, your authorised representatives, corporate and beneficial-owner records, public registers, public blockchains, and approved identity-verification, screening, banking and infrastructure providers. We process biometric and other sensitive personal data only where permitted by applicable law, obtaining explicit consent where required.</p>
 
         <h2>3. How We Use Personal Data</h2>
         <p>We may use personal data for the following purposes:</p>
@@ -2454,21 +2458,23 @@ const siteMarkup = `<nav class="nav">
         <p>vii. to comply with legal, regulatory, contractual or risk management obligations.</p>
 
         <h2>4. Disclosure of Personal Data</h2>
-        <p>We may disclose personal data where necessary to:</p>
-        <p>i. our officers, employees, representatives and authorised personnel;</p>
-        <p>ii. professional advisers, consultants, technology providers, compliance providers and service providers;</p>
-        <p>iii. trustees, custodians, payment providers, financial institutions, counterparties or business partners involved in delivering requested services;</p>
-        <p>iv. regulators, authorities, law enforcement agencies or courts where required by law or regulation; and</p>
-        <p>v. any party where disclosure is necessary to protect our rights, comply with obligations, or perform requested services.</p>
+        <p>Subject to applicable law, we may disclose relevant corporate, individual, transactional, wallet and compliance information to:</p>
+        <p>i. our authorised officers, employees and representatives;</p>
+        <p>ii. professional advisers, auditors, identity-verification providers, technology providers and compliance providers;</p>
+        <p>iii. regulators, law enforcement agencies, courts and sanctions authorities;</p>
+        <p>iv. primary, correspondent and clearing banks;</p>
+        <p>v. payment and settlement providers, liquidity and execution providers, and approved digital-asset infrastructure providers where relevant to the service; and</p>
+        <p>vi. other regulated service providers involved in the relevant service or compliance activity.</p>
+        <p>Disclosure may occur where legally required, contractually required, or reasonably necessary for due diligence, investigations, sanctions compliance, transaction monitoring, or compliant banking and settlement activity, provided the disclosure is permitted by applicable law. Where legally permitted, disclosure may occur without prior notice or separate customer consent, including where notice is prohibited or would prejudice an investigation. We obtain consent where applicable law requires it.</p>
 
         <h2>5. Data Security</h2>
         <p>We take reasonable administrative, technical and organisational measures to protect personal data against unauthorised access, disclosure, loss, misuse, alteration or destruction. However, no method of transmission or electronic storage is completely secure, and we cannot guarantee absolute security.</p>
 
         <h2>6. Data Retention</h2>
-        <p>We retain personal data for as long as necessary to fulfil the purposes for which it was collected, to provide services, to comply with legal and regulatory obligations, to resolve disputes, and to maintain business and compliance records.</p>
+        <p>We retain personal data for the period necessary for the relevant service, compliance, legal or documented preservation purpose. Where permitted by applicable law and required under our compliance framework, KYC/KYB, beneficial-ownership, transaction, screening, monitoring and investigation records may be retained for at least seven years following the end of the customer relationship or completion of the relevant transaction or investigation, as applicable. A longer period may apply where required by law, a lawful contractual obligation, regulatory direction, litigation hold or another applicable preservation requirement. When the applicable retention purpose and period end, we securely delete or anonymise the information unless another lawful preservation requirement applies.</p>
 
         <h2>7. Your Rights</h2>
-        <p>Subject to applicable law, you may request access to, correction of, or withdrawal of consent for the processing of your personal data. We may require verification of your identity before processing such requests.</p>
+        <p>Subject to applicable law, you may request access to or correction of your personal data, withdraw consent where processing relies on consent, and request deletion or exercise other rights available to you. We may verify your identity before responding. A deletion request or withdrawal of consent does not require us to erase records that we are legally required, or otherwise lawfully and properly required, to retain for compliance, contractual, regulatory, litigation or preservation purposes. We assess each request under applicable law and explain any applicable restriction where legally permitted.</p>
 
         <h2>8. Third-Party Websites</h2>
         <p>Our website may contain links to third-party websites or services. We are not responsible for the privacy practices, content or security of such third-party websites. You should review the privacy policies of those third parties before providing any personal data.</p>
@@ -2529,8 +2535,8 @@ const siteMarkup = `<nav class="nav">
           </div>
           <div class="fiduciary-service-card">
             <div class="mini-letter">06</div>
-            <h3>SPV & Investment Structure Support</h3>
-            <p>Assistance with SPV coordination, investment structure planning and administration readiness for structured activities.</p>
+            <h3>Structured Entity Formation & Administration</h3>
+            <p>Structured entity formation and administrative setup for corporate operations, including governance documentation and administrative readiness.</p>
           </div>
         </div>
       </div>
@@ -2551,7 +2557,7 @@ const siteMarkup = `<nav class="nav">
             <div class="process-node">
               <div class="process-dot"></div>
               <strong>Structure</strong>
-              <span>Coordinate the appropriate financial, SPV or administrative pathway.</span>
+              <span>Coordinate the appropriate corporate, structured-entity or administrative pathway.</span>
             </div>
             <div class="process-node">
               <div class="process-dot"></div>
@@ -2778,15 +2784,15 @@ const siteMarkup = `<nav class="nav">
             </div>
 
             <div class="technology-flow-row">
-            <div class="technology-flow-stage"><strong>Payment Solutions</strong></div>
+            <div class="technology-flow-stage"><strong>Enterprise Integration Workflows</strong></div>
             <div class="technology-flow-axis"><div class="technology-flow-dot"></div></div>
             <div class="technology-flow-card">
                 <ul>
-                  <li>Payment Gateway Integration</li>
+                  <li>E-commerce Integration Workflows and Enterprise Technology Consulting</li>
                   <li>Settlement Coordination Support</li>
                   <li>Workflow Automation</li>
                 </ul>
-                <p style="margin-top:12px;">These solutions connect commercial activity to practical payment and transaction workflows.</p>
+                <p style="margin-top:12px;">These services connect commercial activity to practical enterprise and operational workflows.</p>
               </div>
             </div>
 
